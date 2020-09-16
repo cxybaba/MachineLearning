@@ -1,1 +1,1 @@
-#Python Data Aanlysis
+#基于pso算法和sklearn的算法包实现了pso-svr算法，优化svr预测模型的参数选择
